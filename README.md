@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://princek-portfolio.vercel.app/](https://princek-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://princek-portfolio.vercel.app/](https://chill-dev-portfolio.vercel.app/)
 
 - 📫 How to reach me **princekevinkarthik@gmail.com**
 
